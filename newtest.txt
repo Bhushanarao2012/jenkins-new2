@@ -1,0 +1,4 @@
+ Hi this is 1st test for commit
+ adda and example of 1st test project 
+ in C drive
+ update from d drive
