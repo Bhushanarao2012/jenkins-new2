@@ -1,2 +1,3 @@
  creating a telugu project 
  for 4th class batch
+ add 1 page about local
