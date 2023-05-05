@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 it is a hindhi new project 
-for 10th class students
-=======
+for 10th class
 creating a new english product 
 for 4th class batch
->>>>>>> local
+adding 5th line for main
