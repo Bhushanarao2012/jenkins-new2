@@ -1,7 +1,2 @@
-
-
- its a mathematics new project
- for 10thclass studen
-creating a maths project 
-for 4th class batch
-adding hybrid4 branch
+this is a new projet
+for new bach
