@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 it is a telugu new project 
 for 10th class students
 add 3rd line
-add 4th line on local branch
-=======
- creating a telugu project 
- for 4th class batch
- add 1 page about local
->>>>>>> local
+add 4th line on local bra
+
