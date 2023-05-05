@@ -1,2 +1,7 @@
+<<<<<<< HEAD
  its a mathematics new project
  for 10thclass students
+=======
+creating a maths project 
+for 4th class batch
+>>>>>>> local
